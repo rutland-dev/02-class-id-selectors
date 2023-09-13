@@ -1,0 +1,19 @@
+.common {
+    background-color: rgb(255, 160, 122);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+.special {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(153, 255, 153);
+    font-weight: bold;
+    font-size: 24px;
+}
